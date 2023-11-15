@@ -1,0 +1,6 @@
+{
+    "name": "Module 1",
+    "image": "mcr.microsoft.com/devcontainers/universal:linux",
+    "workspaceMount": "source=${localWorkspaceFolder},target=/workspace,type=bind",
+    "workspaceFolder": "/workspace/assignments/module-01/"
+}
